@@ -4,6 +4,10 @@
 <hr>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="380">
 
+<p><em>Senior Security Noob<br>
+  Tooling around in my own free time, whenever my beloved kid is not playing with the keyboard. xD
+</em></p>
+
 [![Twitter: klezVirus](https://img.shields.io/twitter/follow/klezVirus?style=flat-square)](https://twitter.com/klezVirus)
 [![GitHub: klezVirus](https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus)
 
