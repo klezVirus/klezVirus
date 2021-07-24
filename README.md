@@ -22,9 +22,7 @@
 
 <br>
 
-
-
-<!--<p align="center">
-  <a href="https://twitter.com/klezVirus"><img src="https://https://img.shields.io/twitter/follow/klezVirus?color=0ff00&label=%40klezVirus&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
-  <a href="https://github.com/klezVirus"><img src="https://img.shields.io/github/followers/klezVirus?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
-</p>-->
+<!-- CREDITS: 
+  -- Thanks S3cur3Th1sSh1t, I've taken the whole readme format from him, as I really liked it 
+  -- https://github.com/S3cur3Th1sSh1t/S3cur3Th1sSh1t
+-->
