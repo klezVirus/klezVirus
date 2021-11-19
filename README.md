@@ -22,6 +22,11 @@
 
 <br>
 
+<!-- 
+To enable trophies: 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
+
 <!-- CREDITS: 
   -- Thanks S3cur3Th1sSh1t, I've taken the whole readme format from him, as I really liked it 
   -- https://github.com/S3cur3Th1sSh1t/S3cur3Th1sSh1t
