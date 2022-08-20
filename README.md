@@ -7,17 +7,17 @@
   Tooling around in my own free time, whenever my beloved kid is not playing with the keyboard. xD
   <br/>
   <br/>
-  <a href="https://twitter.com/klezVirus" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/klezVirus?style=flat-square"/></a>
+  <a href="https://twitter.com/klezVirus" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/klezVirus?style=flat-square"/></a>
   <a href="https://github.com/klezVirus" target="blank"><img align="center" src="https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus"/></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=klezVirus"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=klezVirus"/>
 
   <br/>
 </em></p>
 
 <p align="center">
-  <img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="400"/>
+  <img align='center' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="600"/>
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="400"/>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="600"/>
 
 </p>
 
