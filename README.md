@@ -2,25 +2,34 @@
   <img src="https://i.imgur.com/MShGU4o.png">
 </p>
 <hr>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="380">
 
-<p><em>Senior Security Noob<br>
+<p align="center"><em>Senior Security Noob<br>
   Tooling around in my own free time, whenever my beloved kid is not playing with the keyboard. xD
 </em></p>
 
-[![Twitter: klezVirus](https://img.shields.io/twitter/follow/klezVirus?style=flat-square)](https://twitter.com/klezVirus)
-[![GitHub: klezVirus](https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus)
+<p align="right">
+  <a href="https://twitter.com/klezVirus" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/klezVirus?style=flat-square"/></a>
+  <a href="https://github.com/klezVirus" target="blank"><img align="right" src="https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus"/></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=klezVirus"/>
+  <img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="460"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klezVirus" alt="klezVirus" /> </p>
-<br>
+  <br/>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="425"/>
+  <br/>
 </p>
 
-<h4 align="left">Personal blog:</h4>
-<p align="left">
-<a href="https://klezVirus.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://klezVirus.github.io/" height="30" width="40" /></a>
+<p align="right">
+  <a href="https://www.buymeacoffee.com/klezvirus" target="blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klezvirus" /></a>
 </p>
 
-<br>
+
+
+<p align="right">
+  <a href="https://twitter.com/klezVirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klezVirus" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alesandro-magnosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klezVirus" height="30" width="40" /></a>
+  <a href="https://klezVirus.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="klezVirus" height="30" width="40" /></a>
+</p>
+
 
 <!-- 
 To enable trophies: 
