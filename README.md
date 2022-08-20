@@ -5,26 +5,29 @@
 
 <p align="center"><em>Senior Security Noob<br>
   Tooling around in my own free time, whenever my beloved kid is not playing with the keyboard. xD
+  <br/>
+  <br/>
+  <a href="https://twitter.com/klezVirus" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/klezVirus?style=flat-square"/></a>
+  <a href="https://github.com/klezVirus" target="blank"><img align="center" src="https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus"/></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=klezVirus"/>
+
+  <br/>
 </em></p>
 
-<p align="right">
-  <a href="https://twitter.com/klezVirus" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/klezVirus?style=flat-square"/></a>
-  <a href="https://github.com/klezVirus" target="blank"><img align="right" src="https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus"/></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=klezVirus"/>
-  <img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="460"/>
+<p align="center">
+  <img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="400"/>
 
-  <br/>
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="425"/>
-  <br/>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="400"/>
+
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://www.buymeacoffee.com/klezvirus" target="blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klezvirus" /></a>
 </p>
 
 
 
-<p align="right">
+<p align="center" style="vertical-align:bottom;">
   <a href="https://twitter.com/klezVirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klezVirus" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alesandro-magnosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klezVirus" height="30" width="40" /></a>
   <a href="https://klezVirus.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="klezVirus" height="30" width="40" /></a>
