@@ -14,20 +14,21 @@
   <br/>
 </em></p>
 
-  <!--<img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="400"/>-->
-  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=klezVirus&layout=compact&theme=dark" width="300"/>
-  <img align='left' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="350"/>
-
-</p>
-
-<p align="right" style="vertical-align:bottom;">
+<div align="center" style="vertical-align:top;">
   <a href="https://www.buymeacoffee.com/klezvirus" target="blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klezvirus" /></a>
-</p>
-<p align="right" style="vertical-align:bottom;">
-<a href="https://twitter.com/klezVirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klezVirus" height="30" width="40" /></a>
+<div align="center" style="vertical-align:bottom;">
+
+  <a href="https://twitter.com/klezVirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klezVirus" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alessandro-magnosi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klezVirus" height="30" width="40" /></a>
   <a href="https://klezVirus.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="klezVirus" height="30" width="40" /></a>
-</p>
+</div>
+</div>
+
+
+  <!--<img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="400"/>-->
+  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=klezVirus&layout=compact&theme=dark" width="450"/>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="450"/>
+
 
 
 <!-- 
