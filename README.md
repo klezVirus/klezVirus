@@ -26,8 +26,8 @@
 
 
   <!--<img align='left' src="https://metrics.lecoq.io/klezVirus?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome" width="400"/>-->
-  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=klezVirus&layout=compact&theme=dark" width="450"/>
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="450"/>
+  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=klezVirus&layout=compact&theme=dark" width="350"/>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="350"/>
 
 
 
